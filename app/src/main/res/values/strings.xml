@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">TripPlanner</string>
+    <string name="new_trip_button">Log</string>
+
+
+    <string name="trip_details_label">Date</string>
+    <string name="trip_title_hint">Enter a title for the trip.</string>
+    <string name="trip_title_label">Title</string>
+    <string name="trip_duration_label">Duration</string>
+    <string name="trip_duration_hint">Enter the duration for the trip.</string>
+    <string name="trip_destination_label">Destination</string>
+    <string name="destination_title_hint">Enter the destination of the trip.</string>
+    <string name="trip_comment_label">Comment</string>
+    <string name="trip_comment_hint">Enter a comment.</string>
+
+
+    <string name="name_label">Name</string>
+    <string name="name_input_hint">Enter your Name</string>
+    <string name="id_label">ID</string>
+    <string name="id_input_hint">Enter your ID</string>
+    <string name="gender_label">Gender</string>
+    <string name="gender_input_hint">What is your gender?</string>
+    <string name="email_label">Email</string>
+    <string name="email_input_hint">Enter your email</string>
+
+
+
+</resources>
